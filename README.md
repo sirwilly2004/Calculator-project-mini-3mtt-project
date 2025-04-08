@@ -1,61 +1,61 @@
-Calculator Mini Project
-A simple web-based calculator built with HTML, CSS, and JavaScript.
+# 🧮 Calculator Website
 
-Features
-Basic arithmetic operations (addition, subtraction, multiplication, division)
+A simple, responsive calculator web application built for basic arithmetic operations.
 
-Percentage calculation
+## 🚀 Features
 
-Clear (AC) and delete (DEL) functions
+- Perform addition, subtraction, multiplication, and division
+- Clean and intuitive user interface
+- Responsive design for mobile and desktop
+- Keyboard input support (optional)
+- Built with **HTML**, **CSS**, and **JavaScript**
 
-Decimal point support
+## 📸 Screenshots
 
-Responsive design
+<!-- You can add screenshots or demo GIFs here -->
+<!-- Example: -->
+<!-- ![Calculator Screenshot](calculator.png) -->
 
-Font Awesome icons for operators
+## 🛠️ Technologies Used
 
-Technologies Used
-HTML5
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
 
-CSS3
+## 🧑‍💻 How to Run Locally
 
-JavaScript
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/calculator-website.git
 
-Font Awesome (for icons)
+Navigate to the project directory:
 
-How to Use
-Clone or download the repository
-
-Open index.html in your web browser
-
-Use the calculator by:
-
-Clicking number buttons (0-9) to input values
-
-Using operator buttons (+, -, ×, ÷) for calculations
-
-Pressing "AC" to clear the display
-
-Pressing "DEL" to delete the last character
-
-Using "%" for percentage calculations
-
-Pressing "=" to calculate the result
-
-File Structure
+bash
 Copy
-calculator/
-├── index.html         # Main HTML file
-├── style.css          # CSS styles
-└── index.js           # JavaScript functionality
-Future Improvements
-Add keyboard support
+Edit
+cd calculator-website
+Open index.html in your browser.
 
-Implement memory functions
-
+📂 Project Structure
+pgsql
+Copy
+Edit
+calculator-website/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+✅ Future Improvements
 Add scientific calculator features
 
-Improve UI/UX design
+Add light/dark theme toggle
 
-License
-This project is open-source and available for anyone to use or modify.
+Support for keyboard shortcuts
+
+Save calculation history
+
+🙌 Acknowledgements
+Thanks to online tutorials and developer communities for inspiration
+
+📄 License
+This project is licensed under the MIT License.
