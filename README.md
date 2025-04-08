@@ -14,7 +14,7 @@ A simple, responsive calculator web application built for basic arithmetic opera
 
 <!-- You can add screenshots or demo GIFs here -->
 <!-- Example: -->
-<!-- ![Calculator Screenshot](calculator.png) -->
+![Calculator Screenshot](calculator.png)
 
 ## 🛠️ Technologies Used
 
